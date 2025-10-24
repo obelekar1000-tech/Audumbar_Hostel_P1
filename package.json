@@ -3,10 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://obelekar1000-tech.github.io/Audumbar_Hostel_P1",
-  "scripts": {
-  "dev": "next dev",
-  "build": "next build && next export",
-  "postbuild": "cpx \".next/static/**\" out/_next/static --flatten=false",
+"scripts": {
+  "build": "next build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d out"
 },
