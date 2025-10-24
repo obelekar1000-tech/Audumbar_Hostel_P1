@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Tanishka Girls Hostel - Safe & Comfortable Accommodation in Ahilynagar",
+  title: "Audumbar Girls Hostel - Safe & Comfortable Accommodation in Ahilynagar",
   description:
     "Premium girls hostel in Ahilynagar, Maharashtra offering safe, comfortable accommodation with modern amenities, nutritious meals, and 24/7 security for students.",
   keywords: "girls hostel, student accommodation, Ahilynagar, Maharashtra, safe hostel, student housing",
