@@ -24,7 +24,7 @@ export function Contact() {
   }
 
   const handleWhatsApp = () => {
-    const message = encodeURIComponent("Hi! I would like to know more about Audumbar Girls Hostel.")
+    const message = encodeURIComponent("Hi! I would like to know more about Audumbar Coliving.")
     window.open(`https://wa.me/919225311131?text=${message}`, "_blank")
   }
 
@@ -51,7 +51,7 @@ export function Contact() {
               </CardHeader>
               <CardContent className="pt-0">
                 <p className="text-sm sm:text-base text-muted-foreground leading-relaxed">
-                  Sudake Mala, Balikashram Road
+                  Audumbar Coliving, Sudake Mala, Balikashram Road
                   <br />
                   Ahilynagar, Maharashtra, 414001
                 </p>

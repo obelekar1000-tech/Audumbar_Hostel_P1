@@ -4,7 +4,9 @@
   "private": true,
   "homepage": "https://obelekar1000-tech.github.io/Audumbar_Hostel_P1",
 "scripts": {
+  "dev": "next dev",
   "build": "next build",
+  "start": "next start",
   "postbuild": "node scripts/addNoJekyll.js",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d out"

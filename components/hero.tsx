@@ -22,11 +22,11 @@ export function Hero() {
           <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-foreground mb-4 sm:mb-6 text-balance leading-tight">
             Welcome to <span className="text-primary">Audumbar</span>
             <br />
-            <span className="text-xl sm:text-2xl md:text-4xl text-muted-foreground">Girls Hostel</span>
+            <span className="text-xl sm:text-2xl md:text-4xl text-muted-foreground">Coliving</span>
           </h1>
 
           <p className="text-base sm:text-lg md:text-xl text-muted-foreground mb-6 sm:mb-8 max-w-2xl mx-auto text-pretty px-2">
-            A safe, comfortable, and modern home away from home for students in Ahilynagar. Experience the perfect blend
+            A safe, comfortable, and modern home away from home for women in Ahilynagar. Experience the perfect blend
             of security, comfort, and community living.
           </p>
 

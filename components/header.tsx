@@ -13,7 +13,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-primary">Audumbar</h1>
-            <span className="ml-2 text-sm text-muted-foreground">Girls Hostel</span>
+            <span className="ml-2 text-sm text-muted-foreground">Coliving</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
