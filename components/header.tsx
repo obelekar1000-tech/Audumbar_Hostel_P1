@@ -37,7 +37,7 @@ export function Header() {
           <div className="hidden md:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Phone className="h-4 w-4" />
-              <span>+91 9225311131</span>
+              <span>+91 7499995342</span>
             </div>
             <Button>Book Now</Button>
           </div>

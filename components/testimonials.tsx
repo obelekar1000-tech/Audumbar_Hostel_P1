@@ -6,34 +6,36 @@ import { useState, useEffect } from "react"
 
 const testimonials = [
   {
-    name: "Priya Sharma",
-    role: "Engineering Student",
+    // name: "Priya Sharma",
+    // role: "Engineering Student",
     content:
-      "Audumbar Hostel has been my home away from home for 2 years. The staff is caring, food is delicious, and I feel completely safe here. My parents are so relieved knowing I'm in such good hands.",
+      // "Audumbar Hostel has been my home away from home for 2 years. The staff is caring, food is delicious, and I feel completely safe here. My parents are so relieved knowing I'm in such good hands.",
+      "Audumbar Hostel has been my home away from home. The staff is caring, food is delicious, and I feel completely safe here. My parents are so relieved knowing I'm in such good hands.",
     rating: 5,
     image: "/placeholder-ikdy1.png",
   },
   {
-    name: "Mrs. Rajesh Patel",
-    role: "Parent",
+    // name: "Mrs. Rajesh Patel",
+    // role: "Parent",
     content:
       "As a parent, safety is my biggest concern. Audumbar Hostel exceeded all our expectations. The 24/7 security, regular updates, and caring environment give us complete peace of mind.",
     rating: 5,
     image: "/middle-aged-indian-woman-smiling.jpg",
   },
   {
-    name: "Ananya Desai",
-    role: "Medical Student",
+    // name: "Ananya Desai",
+    // role: "Medical Student",
     content:
       "The study environment here is exceptional. Quiet study rooms, good WiFi, and supportive friends have helped me excel in my studies. The nutritious food keeps me energized throughout the day.",
     rating: 5,
     image: "/placeholder-92cuq.png",
   },
   {
-    name: "Sneha Kulkarni",
-    role: "Commerce Graduate",
+    // name: "Sneha Kulkarni",
+    // role: "Commerce Graduate",
     content:
-      "I lived at Audumbar for 3 years and made lifelong friendships. The hostel feels like a big family where everyone supports each other. The facilities are modern and well-maintained.",
+      // "I lived at Audumbar for 3 years and made lifelong friendships. The hostel feels like a big family where everyone supports each other. The facilities are modern and well-maintained.",
+      "I lived at Audumbar made lifelong friendships. The hostel feels like a big family where everyone supports each other. The facilities are modern and well-maintained.",
     rating: 5,
     image: "/placeholder-sjp8x.png",
   },

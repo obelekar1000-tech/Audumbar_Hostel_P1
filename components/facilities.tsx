@@ -4,34 +4,34 @@ import { Badge } from "@/components/ui/badge"
 const facilities = [
   {
     title: "Comfortable Rooms",
-    description: "Spacious rooms with modern amenities, comfortable beds, study tables, and ample storage space.",
+    description: "Spacious rooms with modern amenities, comfortable beds, and a fully furnished interior.",
     image: "/placeholder-k5yq8.png",
-    features: ["AC/Non-AC Options", "Study Table", "Wardrobe", "Attached Bathroom"],
+    features: ["Comfortable Beds", "Wardrobe", "Attached Bathroom","Curtains"],
   },
-  {
-    title: "Common Areas",
-    description: "Well-designed common areas for relaxation, socializing, and recreational activities.",
-    image: "/placeholder-c853a.png",
-    features: ["TV Lounge", "Reading Area", "Games Room", "Terrace Garden"],
-  },
-  {
-    title: "Dining Hall",
-    description: "Spacious dining hall serving nutritious vegetarian meals in a hygienic environment.",
-    image: "/placeholder-hbtge.png",
-    features: ["Hygienic Kitchen", "Nutritious Meals", "Special Diets", "Snack Counter"],
-  },
+  // {
+  //   title: "Common Areas",
+  //   description: "Well-designed common areas for relaxation, socializing, and recreational activities.",
+  //   image: "/placeholder-c853a.png",
+  //   features: ["TV Lounge", "Reading Area", "Games Room", "Terrace Garden"],
+  // },
+  // {
+  //   title: "Dining Hall",
+  //   description: "Spacious dining hall serving nutritious vegetarian meals in a hygienic environment.",
+  //   image: "/placeholder-hbtge.png",
+  //   features: ["Hygienic Kitchen", "Nutritious Meals", "Special Diets", "Snack Counter"],
+  // },
   {
     title: "Study Facilities",
     description: "Dedicated study areas and library facilities to support your academic goals.",
     image: "/placeholder-9h03o.png",
-    features: ["Library", "Group Study Rooms", "Silent Zones", "Computer Access"],
+    features: ["Library", "Study Rooms", "Silent Zones"],
   },
-  {
-    title: "Recreation Zone",
-    description: "Indoor and outdoor recreational facilities for physical fitness and entertainment.",
-    image: "/placeholder-x4k4n.png",
-    features: ["Indoor Games", "Fitness Area", "Outdoor Space", "Event Hall"],
-  },
+  // {
+  //   title: "Recreation Zone",
+  //   description: "Indoor and outdoor recreational facilities for physical fitness and entertainment.",
+  //   image: "/placeholder-x4k4n.png",
+  //   features: ["Indoor Games", "Fitness Area", "Outdoor Space", "Event Hall"],
+  // },
   {
     title: "Safety & Security",
     description: "Comprehensive security measures including CCTV surveillance and secure access.",

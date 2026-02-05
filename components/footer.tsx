@@ -13,7 +13,8 @@ export function Footer() {
             </p>
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Heart className="h-4 w-4 text-primary" />
-              <span>Caring for students since 2020</span>
+              <span>Caring for students</span>
+              {/* since 2020 */}
             </div>
           </div>
 
@@ -62,13 +63,13 @@ export function Footer() {
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <div className="text-muted-foreground text-sm">
+                  <div>+91 7499995342</div>
                   <div>+91 9225311131</div>
-                  <div>+91 7741010003</div>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-primary flex-shrink-0" />
-                <span className="text-muted-foreground text-sm">belekaromkar@gmail.com</span>
+                <span className="text-muted-foreground text-sm">audumbarcoliving@gmail.com</span>
               </div>
             </div>
           </div>
