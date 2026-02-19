@@ -5,7 +5,7 @@ const facilities = [
   {
     title: "Comfortable Rooms",
     description: "Spacious rooms with modern amenities, comfortable beds, and a fully furnished interior.",
-    image: "/placeholder-9h03o.png",
+    image: "",
     features: ["Comfortable Beds", "Wardrobe", "Attached Bathroom","Curtains"],
   },
   // {
@@ -23,7 +23,7 @@ const facilities = [
   {
     title: "Study Facilities",
     description: "Dedicated study areas and library facilities to support your academic goals.",
-    image: "/placeholder-9h03o.png",
+    image: "",
     features: ["Library", "Study Rooms", "Silent Zones"],
   },
   // {
@@ -35,7 +35,7 @@ const facilities = [
   {
     title: "Safety & Security",
     description: "Comprehensive security measures including CCTV surveillance and secure access.",
-    image: "/placeholder-0r97b.png",
+    image: "",
     features: ["CCTV Monitoring", "Secure Entry", "Night Security", "Emergency Systems"],
   },
 ]
