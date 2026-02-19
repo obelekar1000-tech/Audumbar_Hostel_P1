@@ -5,7 +5,7 @@ const facilities = [
   {
     title: "Comfortable Rooms",
     description: "Spacious rooms with modern amenities, comfortable beds, and a fully furnished interior.",
-    image: "/placeholder-k5yq8.png",
+    image: "/public/placeholder-0r97b.png",
     features: ["Comfortable Beds", "Wardrobe", "Attached Bathroom","Curtains"],
   },
   // {
