@@ -25,7 +25,7 @@ export function Contact() {
 
   const handleWhatsApp = () => {
     const message = encodeURIComponent("Hi! I would like to know more about Audumbar Coliving.")
-    window.open(`https://wa.me/919225311131?text=${message}`, "_blank")
+    window.open(`https://wa.me/917499995342?text=${message}`, "_blank")
   }
 
   return (
@@ -66,8 +66,8 @@ export function Contact() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-2 pt-0">
+                <p className="text-sm sm:text-base text-muted-foreground">+91 7499995342</p>
                 <p className="text-sm sm:text-base text-muted-foreground">+91 9225311131</p>
-                <p className="text-sm sm:text-base text-muted-foreground">+91 7741010003</p>
               </CardContent>
             </Card>
 
@@ -79,7 +79,7 @@ export function Contact() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="pt-0">
-                <p className="text-sm sm:text-base text-muted-foreground break-all">belekaromkar@gmail.com</p>
+                <p className="text-sm sm:text-base text-muted-foreground break-all">audumbarcoliving@gmail.com</p>
               </CardContent>
             </Card>
 
